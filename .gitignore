@@ -102,3 +102,6 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# IntellIj Pycharm editor file
+.idea/
